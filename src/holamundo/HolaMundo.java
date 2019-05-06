@@ -7,7 +7,7 @@ package holamundo;
 
 /**
  *
- * @author dam05
+ * @author dam06
  */
 public class HolaMundo {
 
@@ -16,6 +16,14 @@ public class HolaMundo {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Hola Mundo");
+        System.out.println("segundo hola mundo");
+        System.out.println("Adios");
+        System.out.println("uno");
+        System.out.println("Dos");
+        System.out.println("Tres");
+        System.out.println("Cuatro");
+        System.out.println("siete");
     }
     
 }
