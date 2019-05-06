@@ -24,6 +24,7 @@ public class HolaMundo {
         System.out.println("Tres");
         System.out.println("Cuatro");
         System.out.println("Cinco");
+        System.out.println("Seis");
     }
     
 }
